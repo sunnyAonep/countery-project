@@ -1,7 +1,20 @@
 body{
+background-color: rgb(73, 73, 162);
+}
+header
+{
+    background-color: rgb(74, 116, 115);
+    height: 120px;
+    background-image: url(img/download.png);
+    background-repeat:no-repeat;
+   background-position: right;
+   text-align: left;
+   color: rgb(127, 252, 210);
+   padding-top: 35px;
+   padding-left: 20px; 
+   font-size: 18px; 
+   font-weight: bold;
+}
 
-}
-header{
-    background-color: #8a2be2;
-    text-align: left 'nauro';
-}
+
+ 
